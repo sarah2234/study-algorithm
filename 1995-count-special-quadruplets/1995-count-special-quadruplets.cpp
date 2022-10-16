@@ -3,16 +3,20 @@ public:
     int countQuadruplets(vector<int>& nums) {
         int quadruplets = 0;
         
-        for(int a = 0; a + 3 < nums.size(); a++)
+        for(int d = 3; d < nums.size(); d++)
         {
-            for(int b = a + 1; b + 2 < nums.size(); b++)
+            for(int c = d - 1; c >= 2; c--)
             {
-                for(int c = b + 1; c + 1 < nums.size(); c++)
+                int left_1 = nums[d] - nums[c];
+                for(int b = c - 1; left_1 > 0 && b >= 1; b--)
                 {
-                    for(int d = c + 1; d < nums.size(); d++)
+                    int left_2 = left_1 - nums[b];
+                    for(int a = b - 1; left_2 > 0 && a >= 0; a--)
                     {
-                        if((nums[a]+nums[b]+nums[c])==nums[d])
+                        if(left_2 - nums[a] == 0)
+                        {
                             quadruplets++;
+                        }
                     }
                 }
             }
