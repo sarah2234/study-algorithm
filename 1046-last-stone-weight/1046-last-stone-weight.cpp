@@ -6,7 +6,7 @@ public:
             sort(stones.begin(), stones.end(), greater<int>());
             int first = stones[0];
             int second = stones[1];
-            cout << "first: " << first <<" second: " << second << ", size: " << stones.size() << endl;
+            //cout << "first: " << first <<" second: " << second << ", size: " << stones.size() << endl;
             stones.erase(stones.begin());
             stones.erase(stones.begin());
             if (first - second != 0)
