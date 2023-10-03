@@ -1,19 +1,27 @@
 class Solution {
 public:
     bool winnerOfGame(string colors) {
-        int alice = 0;
-        int bob = 0;
-        
-        for (int i = 1; i < colors.size() - 1; i++) {
-            if (colors[i - 1] == colors[i] && colors[i] == colors[i + 1]) {
-                if (colors[i] == 'A') {
-                    alice++;
-                } else {
-                    bob++;
+        int aCnt = 0, bCnt = 0;
+        int aWin = 0, bWin = 0;
+        for (char color : colors) {
+            if (color == 'A') {
+                aCnt++;
+                bCnt = 0;
+                if (aCnt >= 3) {
+                    aWin++;
                 }
+            } else {
+                aCnt = 0;
+                bCnt++;
+                if (bCnt >= 3) {
+                    bWin++;
+                }   
             }
         }
+
+        if (aWin > bWin)
+            return true;
         
-        return alice - bob >= 1;
+        return false;
     }
 };
