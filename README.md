@@ -13,5 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarah2234/study-algorithm/tree/master/0014-longest-common-prefix) |
 | [1250-longest-common-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/1250-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarah2234/study-algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
