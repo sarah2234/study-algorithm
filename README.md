@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarah2234/study-algorithm/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sarah2234/study-algorithm/tree/master/0009-palindrome-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sarah2234/study-algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/sarah2234/study-algorithm/tree/master/2649-count-total-number-of-colored-cells) |
 ## Linked List
 |  |
 | ------- |
