@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sarah2234/study-algorithm/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/sarah2234/study-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [2478-longest-nice-subarray](https://github.com/sarah2234/study-algorithm/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sarah2234/study-algorithm/tree/master/2665-minimum-time-to-repair-cars) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarah2234/study-algorithm/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sarah2234/study-algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sarah2234/study-algorithm/tree/master/2649-count-total-number-of-colored-cells) |
 ## Linked List
 |  |
@@ -85,9 +87,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/sarah2234/study-algorithm/tree/master/2478-longest-nice-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
