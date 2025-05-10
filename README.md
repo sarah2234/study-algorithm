@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/sarah2234/study-algorithm/tree/master/2665-minimum-time-to-repair-cars) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sarah2234/study-algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarah2234/study-algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3483-alternating-groups-ii](https://github.com/sarah2234/study-algorithm/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/sarah2234/study-algorithm/tree/master/2249-count-the-hidden-sequences) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarah2234/study-algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
