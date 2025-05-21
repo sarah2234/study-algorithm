@@ -1,37 +1,54 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
+        bool firstRowZero = false, firstColZero = false;
 
-        set<int> zeroRows;
-        set<int> zeroCols;
-
-        for (int i = 0; i < m; i++)
+        for (int i = 0; i < matrix[0].size(); i++)
         {
-            for (int j = 0; j < n; j++)
+            if (matrix[0][i] == 0)
+                firstRowZero = true;
+        }
+
+        for (int i = 0; i < matrix.size(); i++)
+        {
+            if (matrix[i][0] == 0)
+                firstColZero = true;
+        }
+
+        for (int i = 1; i < matrix.size(); i++)
+        {
+            for (int j = 1; j < matrix[0].size(); j++)
             {
                 if (matrix[i][j] == 0)
                 {
-                    zeroRows.insert(i);
-                    zeroCols.insert(j);
+                    matrix[0][j] = 0;
+                    matrix[i][0] = 0;
                 }
             }
         }
 
-        for (auto& row : zeroRows)
+        for (int i = 1; i < matrix.size(); ++i) 
         {
-            for (int i = 0; i < n; i++)
+            for (int j = 1; j < matrix[0].size(); ++j) 
             {
-                matrix[row][i] = 0;
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) 
+                    matrix[i][j] = 0;
             }
         }
 
-        for (auto& col : zeroCols)
+        if (firstRowZero)
         {
-            for (int i = 0; i < m; i++)
+            for (int i = 0; i < matrix[0].size(); i++)
             {
-                matrix[i][col] = 0;
+                matrix[0][i] = 0;
+            }
+        }
+
+        if (firstColZero)
+        {
+            for (int i = 0; i < matrix.size(); i++)
+            {
+                matrix[i][0] = 0;
             }
         }
     }
