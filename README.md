@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sarah2234/study-algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarah2234/study-algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3483-alternating-groups-ii](https://github.com/sarah2234/study-algorithm/tree/master/3483-alternating-groups-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,12 +124,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/sarah2234/study-algorithm/tree/master/2249-count-the-hidden-sequences) |
+| [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarah2234/study-algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
