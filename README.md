@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/1250-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sarah2234/study-algorithm/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sarah2234/study-algorithm/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/sarah2234/study-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 ## String
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarah2234/study-algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sarah2234/study-algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -138,4 +140,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
