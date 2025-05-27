@@ -2,13 +2,8 @@ class Solution {
 public:
     int differenceOfSums(int n, int m) {
         int total = (n + 1) * n / 2;
-        int a = 0;
+        int k = n / m;
 
-        for (int i = 1; i * m <= n; i++)
-        {
-            a += m * i;
-        }
-
-        return total - 2 * a;
+        return total - 2 * ((k + 1) * k / 2 * m);
     }
 };
