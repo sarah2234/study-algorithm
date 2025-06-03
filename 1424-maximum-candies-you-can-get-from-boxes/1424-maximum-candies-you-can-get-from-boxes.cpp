@@ -7,34 +7,38 @@ public:
         
         int totalCandies = 0;
         queue<int> q;
-        unordered_set<int> boxes;
-        unordered_set<int> seen;
+        unordered_set<int> boxes(initialBoxes.begin(), initialBoxes.end());
+        vector<bool> visited(status.size(), false);
 
+        // 초기 열린 박스 큐에 넣기
         for (int box : initialBoxes) {
-            boxes.insert(box);
-            if (status[box]) q.push(box);
+            if (status[box]) {
+                q.push(box);
+                visited[box] = true;
+            }
         }
 
         while (!q.empty()) {
-            int box = q.front(); q.pop();
-            if (seen.count(box)) continue;
-            seen.insert(box);
+            int curr = q.front(); q.pop();
+            totalCandies += candies[curr];
 
-            totalCandies += candies[box];
-
-            // 얻은 키로 박스를 열 수 있게 만들기
-            for (int key : keys[box]) {
-                status[key] = 1;
-                if (boxes.count(key) && !seen.count(key)) {
-                    q.push(key);
+            // 새로운 키로 박스를 열 수 있게 함
+            for (int key : keys[curr]) {
+                if (!status[key]) {
+                    status[key] = 1;
+                    if (boxes.count(key) && !visited[key]) {
+                        q.push(key);
+                        visited[key] = true;
+                    }
                 }
             }
 
-            // 얻은 박스를 기억해두기
-            for (int newBox : containedBoxes[box]) {
-                boxes.insert(newBox);
-                if (status[newBox] && !seen.count(newBox)) {
-                    q.push(newBox);
+            // 새로운 박스 발견
+            for (int box : containedBoxes[curr]) {
+                boxes.insert(box);
+                if (status[box] && !visited[box]) {
+                    q.push(box);
+                    visited[box] = true;
                 }
             }
         }
