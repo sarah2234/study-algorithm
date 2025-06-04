@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarah2234/study-algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sarah2234/study-algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sarah2234/study-algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sarah2234/study-algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sarah2234/study-algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sarah2234/study-algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
