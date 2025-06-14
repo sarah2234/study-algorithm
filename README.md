@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sarah2234/study-algorithm/tree/master/2050-count-good-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sarah2234/study-algorithm/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/sarah2234/study-algorithm/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sarah2234/study-algorithm/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Linked List
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/sarah2234/study-algorithm/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarah2234/study-algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
