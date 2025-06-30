@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sarah2234/study-algorithm/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarah2234/study-algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sarah2234/study-algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sarah2234/study-algorithm/tree/master/2478-longest-nice-subarray) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarah2234/study-algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarah2234/study-algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Breadth-First Search
 |  |
