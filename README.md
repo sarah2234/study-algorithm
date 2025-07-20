@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sarah2234/study-algorithm/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sarah2234/study-algorithm/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarah2234/study-algorithm/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarah2234/study-algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/sarah2234/study-algorithm/tree/master/2249-count-the-hidden-sequences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sarah2234/study-algorithm/tree/master/0014-longest-common-prefix) |
 | [1250-longest-common-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarah2234/study-algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sarah2234/study-algorithm/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sarah2234/study-algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sarah2234/study-algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarah2234/study-algorithm/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sarah2234/study-algorithm/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sarah2234/study-algorithm/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarah2234/study-algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sarah2234/study-algorithm/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sarah2234/study-algorithm/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarah2234/study-algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sarah2234/study-algorithm/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
