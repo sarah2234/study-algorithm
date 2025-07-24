@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarah2234/study-algorithm/tree/master/0014-longest-common-prefix) |
 | [1250-longest-common-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sarah2234/study-algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarah2234/study-algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sarah2234/study-algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sarah2234/study-algorithm/tree/master/2079-delete-duplicate-folders-in-system) |
