@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sarah2234/study-algorithm/tree/master/0940-fruit-into-baskets) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarah2234/study-algorithm/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sarah2234/study-algorithm/tree/master/2665-minimum-time-to-repair-cars) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarah2234/study-algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sarah2234/study-algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarah2234/study-algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarah2234/study-algorithm/tree/master/1917-maximum-average-pass-ratio) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sarah2234/study-algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Heap (Priority Queue)
