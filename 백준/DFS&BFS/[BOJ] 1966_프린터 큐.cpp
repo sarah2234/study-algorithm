@@ -4,7 +4,7 @@ using namespace std;
 
 void PriorityQueue()
 {
-	int docCnt, printDocIndex; // printDocIndex: Ã£´Â ¹®¼­
+	int docCnt, printDocIndex; // printDocIndex: ÃƒÂ£Â´Ã‚ Â¹Â®Â¼Â­
 	cin >> docCnt >> printDocIndex;
 	int cnt = 1;
 	vector<int*> docPriority;
