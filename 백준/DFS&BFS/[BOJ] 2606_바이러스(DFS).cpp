@@ -16,7 +16,7 @@ int main()
 {
 	cin >> cmpNum >> connectNum;
 	graph = new Node * [cmpNum];
-	for (int i = 0; i < cmpNum; i++) // �ʱ�ȭ
+	for (int i = 0; i < cmpNum; i++) // ÃÊ±âÈ­
 	{
 		Node* tmp = new Node();
 		tmp->key = i + 1;
@@ -28,7 +28,7 @@ int main()
 		tmp->visited = false;
 		graph[i] = tmp;
 	}
-	for (int i = 0, a, b; i < connectNum; i++) // ���� �Է�
+	for (int i = 0, a, b; i < connectNum; i++) // °£¼± ÀÔ·Â
 	{
 		cin >> a >> b;
 		InsertEdge(a - 1, b - 1);
