@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sarah2234/study-algorithm/tree/master/2665-minimum-time-to-repair-cars) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sarah2234/study-algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sarah2234/study-algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarah2234/study-algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarah2234/study-algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sarah2234/study-algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarah2234/study-algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarah2234/study-algorithm/tree/master/1917-maximum-average-pass-ratio) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sarah2234/study-algorithm/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sarah2234/study-algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarah2234/study-algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
