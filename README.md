@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
+| [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sarah2234/study-algorithm/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarah2234/study-algorithm/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sarah2234/study-algorithm/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sarah2234/study-algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sarah2234/study-algorithm/tree/master/2050-count-good-numbers) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
+| [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/sarah2234/study-algorithm/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/sarah2234/study-algorithm/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarah2234/study-algorithm/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sarah2234/study-algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Tree
