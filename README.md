@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/sarah2234/study-algorithm/tree/master/1006-vowel-spellchecker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sarah2234/study-algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/sarah2234/study-algorithm/tree/master/1390-four-divisors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sarah2234/study-algorithm/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/sarah2234/study-algorithm/tree/master/1813-maximum-erasure-value) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarah2234/study-algorithm/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/sarah2234/study-algorithm/tree/master/1390-four-divisors) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sarah2234/study-algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sarah2234/study-algorithm/tree/master/2050-count-good-numbers) |
