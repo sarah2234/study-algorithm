@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarah2234/study-algorithm/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/0085-maximal-rectangle) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarah2234/study-algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0740-delete-and-earn](https://github.com/sarah2234/study-algorithm/tree/master/0740-delete-and-earn) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarah2234/study-algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sarah2234/study-algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/0085-maximal-rectangle) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sarah2234/study-algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Hash Function
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sarah2234/study-algorithm/tree/master/3790-fruits-into-baskets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
