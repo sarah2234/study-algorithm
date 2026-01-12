@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sarah2234/study-algorithm/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/sarah2234/study-algorithm/tree/master/1006-vowel-spellchecker) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sarah2234/study-algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sarah2234/study-algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/sarah2234/study-algorithm/tree/master/1390-four-divisors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sarah2234/study-algorithm/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarah2234/study-algorithm/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sarah2234/study-algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/sarah2234/study-algorithm/tree/master/1390-four-divisors) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sarah2234/study-algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/sarah2234/study-algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
