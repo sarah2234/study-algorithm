@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0110-balanced-binary-tree](https://github.com/sarah2234/study-algorithm/tree/master/0110-balanced-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sarah2234/study-algorithm/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sarah2234/study-algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0110-balanced-binary-tree](https://github.com/sarah2234/study-algorithm/tree/master/0110-balanced-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sarah2234/study-algorithm/tree/master/0110-balanced-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sarah2234/study-algorithm/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Brainteaser
 |  |
