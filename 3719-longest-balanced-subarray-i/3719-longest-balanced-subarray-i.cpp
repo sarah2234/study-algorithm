@@ -1,22 +1,22 @@
 class Solution {
 public:
     int longestBalanced(vector<int>& nums) {
-        size_t len = 0;
+        int ans = 0;
 
-        for (size_t i = 0; i < nums.size(); i++) {
-            auto odd = unordered_map<int, int>();
-            auto even = unordered_map<int, int>();
+        for (int i = 0; i < nums.size(); i++) {
+            unordered_set<int> odds;
+            unordered_set<int> evens;
 
-            for (size_t j = i; j < nums.size(); j++) {
-                auto& c = (nums[j] & 1) ? odd : even;
-                c[nums[j]]++;
+            for (int j = i; j < nums.size(); j++) {
+                if (nums[j] & 1) odds.insert(nums[j]);
+                else evens.insert(nums[j]);
 
-                if (odd.size() == even.size()) {
-                    len = std::max(len, j - i + 1);
+                if (odds.size() == evens.size()) {
+                    ans = max(ans, j - i + 1);
                 }
             }
+            
         }
-
-        return int(len);
+        return ans;
     }
 };
