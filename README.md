@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/sarah2234/study-algorithm/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sarah2234/study-algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/sarah2234/study-algorithm/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/sarah2234/study-algorithm/tree/master/1622-fancy-sequence) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sarah2234/study-algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sarah2234/study-algorithm/tree/master/2050-count-good-numbers) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/sarah2234/study-algorithm/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarah2234/study-algorithm/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarah2234/study-algorithm/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/sarah2234/study-algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarah2234/study-algorithm/tree/master/3719-longest-balanced-subarray-i) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/sarah2234/study-algorithm/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
