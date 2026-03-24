@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sarah2234/study-algorithm/tree/master/2665-minimum-time-to-repair-cars) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2906-construct-product-matrix](https://github.com/sarah2234/study-algorithm/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarah2234/study-algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarah2234/study-algorithm/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sarah2234/study-algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sarah2234/study-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sarah2234/study-algorithm/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sarah2234/study-algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2906-construct-product-matrix](https://github.com/sarah2234/study-algorithm/tree/master/2906-construct-product-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sarah2234/study-algorithm/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2249-count-the-hidden-sequences](https://github.com/sarah2234/study-algorithm/tree/master/2249-count-the-hidden-sequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarah2234/study-algorithm/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2906-construct-product-matrix](https://github.com/sarah2234/study-algorithm/tree/master/2906-construct-product-matrix) |
 | [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarah2234/study-algorithm/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
