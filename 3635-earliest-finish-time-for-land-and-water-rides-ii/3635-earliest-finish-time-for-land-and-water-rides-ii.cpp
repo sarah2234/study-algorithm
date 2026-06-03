@@ -1,27 +1,21 @@
 class Solution {
+    static inline int MAX = 300005;
 public:
-    int CalcEndTime(vector<int>& firstStartTime, vector<int>& firstDuration, vector<int>& secondStartTime, vector<int>& secondDuration) {
-        int finalEndTime = INT_MAX, firstEndTime = INT_MAX;
+    int earliestFinishTime(vector<int>& la, vector<int>& lb, vector<int>& wa, vector<int>& wb) {
+        int l = MAX, w = MAX, minL = MAX, minW = MAX;
+        int n = la.size(), m = wa.size();
 
-        for (int i = 0; i < firstStartTime.size(); i++) {
-            int check = firstStartTime[i] + firstDuration[i];
+        for (int i = 0; i < n; i++)
+            l = min(l, la[i] + lb[i]);
 
-            if (check < firstEndTime) firstEndTime = check;
+        for (int i = 0; i < m; i++) {
+            w = min(w, wa[i] + wb[i]);
+            minL = min(minL, max(wa[i], l) + wb[i]);
         }
 
-        for (int i = 0; i < secondStartTime.size(); i++) {
-            int check = (firstEndTime >= secondStartTime[i]) ? firstEndTime + secondDuration[i] : secondStartTime[i] + secondDuration[i];
+        for (int i = 0; i < n; i++)
+            minW = min(minW, max(la[i], w) + lb[i]);
 
-            if (check < finalEndTime) finalEndTime = check;
-        }
-
-        return finalEndTime;
-    }
-
-    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
-        int landFirst = CalcEndTime(landStartTime, landDuration, waterStartTime, waterDuration);
-        int waterFirst = CalcEndTime(waterStartTime, waterDuration, landStartTime, landDuration);
-
-        return min(landFirst, waterFirst);
+        return min(minW, minL);
     }
 };
