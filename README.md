@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sarah2234/study-algorithm/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarah2234/study-algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarah2234/study-algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1840-maximum-building-height](https://github.com/sarah2234/study-algorithm/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sarah2234/study-algorithm/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarah2234/study-algorithm/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarah2234/study-algorithm/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/sarah2234/study-algorithm/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/sarah2234/study-algorithm/tree/master/1622-fancy-sequence) |
+| [1840-maximum-building-height](https://github.com/sarah2234/study-algorithm/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sarah2234/study-algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarah2234/study-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sarah2234/study-algorithm/tree/master/2050-count-good-numbers) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarah2234/study-algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarah2234/study-algorithm/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/sarah2234/study-algorithm/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/sarah2234/study-algorithm/tree/master/2126-destroying-asteroids) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarah2234/study-algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
