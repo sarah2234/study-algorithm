@@ -1,18 +1,25 @@
 class Solution {
 public:
     int maxIceCream(vector<int>& costs, int coins) {
-        sort(costs.begin(), costs.end());
+        vector<int> freq(100001);
 
-        unsigned long long currCost = 0;
+        for (int cost : costs)
+            freq[cost]++;
 
-        for (int i = 0; i < costs.size(); i++) {
-            currCost += costs[i];
+        int ans = 0;
 
-            if (currCost > coins) {
-                return i;
-            }
+        for (int price = 1; price <= 100000; price++) {
+            if (freq[price] == 0)
+                continue;
+
+            int canBuy = min(freq[price], coins / price);
+
+            ans += canBuy;
+            coins -= canBuy * price;
+
+            if (coins < price)
+                break;
         }
-
-        return costs.size();
+        return ans;
     }
 };
