@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sarah2234/study-algorithm/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3483-alternating-groups-ii](https://github.com/sarah2234/study-algorithm/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sarah2234/study-algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sarah2234/study-algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarah2234/study-algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarah2234/study-algorithm/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarah2234/study-algorithm/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarah2234/study-algorithm/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/sarah2234/study-algorithm/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sarah2234/study-algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarah2234/study-algorithm/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarah2234/study-algorithm/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sarah2234/study-algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarah2234/study-algorithm/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sarah2234/study-algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarah2234/study-algorithm/tree/master/3719-longest-balanced-subarray-i) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarah2234/study-algorithm/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarah2234/study-algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarah2234/study-algorithm/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sarah2234/study-algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarah2234/study-algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarah2234/study-algorithm/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sarah2234/study-algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
