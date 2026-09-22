@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/sarah2234/study-algorithm/tree/master/3483-alternating-groups-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sarah2234/study-algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sarah2234/study-algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3524-find-x-value-of-array-i](https://github.com/sarah2234/study-algorithm/tree/master/3524-find-x-value-of-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarah2234/study-algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarah2234/study-algorithm/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarah2234/study-algorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sarah2234/study-algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/sarah2234/study-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sarah2234/study-algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3524-find-x-value-of-array-i](https://github.com/sarah2234/study-algorithm/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarah2234/study-algorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/sarah2234/study-algorithm/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sarah2234/study-algorithm/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sarah2234/study-algorithm/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3524-find-x-value-of-array-i](https://github.com/sarah2234/study-algorithm/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarah2234/study-algorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
