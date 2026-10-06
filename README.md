@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarah2234/study-algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarah2234/study-algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/sarah2234/study-algorithm/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/sarah2234/study-algorithm/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/sarah2234/study-algorithm/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarah2234/study-algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarah2234/study-algorithm/tree/master/1382-balance-a-binary-search-tree) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sarah2234/study-algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarah2234/study-algorithm/tree/master/1833-maximum-ice-cream-bars) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/sarah2234/study-algorithm/tree/master/0085-maximal-rectangle) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarah2234/study-algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sarah2234/study-algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -467,5 +470,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarah2234/study-algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
