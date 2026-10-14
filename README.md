@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sarah2234/study-algorithm/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/sarah2234/study-algorithm/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarah2234/study-algorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sarah2234/study-algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sarah2234/study-algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/sarah2234/study-algorithm/tree/master/3647-zero-array-transformation-iii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sarah2234/study-algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
