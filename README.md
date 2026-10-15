@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/sarah2234/study-algorithm/tree/master/2665-minimum-time-to-repair-cars) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/sarah2234/study-algorithm/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarah2234/study-algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarah2234/study-algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarah2234/study-algorithm/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarah2234/study-algorithm/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarah2234/study-algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sarah2234/study-algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarah2234/study-algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarah2234/study-algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sarah2234/study-algorithm/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarah2234/study-algorithm/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarah2234/study-algorithm/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sarah2234/study-algorithm/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarah2234/study-algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarah2234/study-algorithm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarah2234/study-algorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/sarah2234/study-algorithm/tree/master/3790-fruits-into-baskets-ii) |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarah2234/study-algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarah2234/study-algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarah2234/study-algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
