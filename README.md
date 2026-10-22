@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/sarah2234/study-algorithm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarah2234/study-algorithm/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/sarah2234/study-algorithm/tree/master/3790-fruits-into-baskets-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarah2234/study-algorithm/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
